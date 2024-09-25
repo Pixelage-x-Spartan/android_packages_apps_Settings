@@ -212,9 +212,6 @@
     <string name="hide_developer_status_title">Hide developer status</string>
     <string name="hide_developer_status_summary">Hide developer status from apps</string>
 
-    <!-- Back haptic feedback -->
-    <string name="back_gesture_haptic_title">Back haptic feedback</string>
-
     <!-- Refresh rate -->
     <string name="refresh_rate_title">Refresh rate</string>
     <string name="refresh_rate_summary_vrr_off">%d Hz</string>
